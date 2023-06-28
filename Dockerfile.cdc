@@ -1,4 +1,4 @@
-FROM debezium/server:2.2
+FROM debezium/server:2.3
 
 LABEL maintainer="Ignalina"
 
